@@ -1,6 +1,6 @@
 
 
-a = open('sectionJ.dat','r')
+a = open('sectionE.dat','r')
 
 data = a.readlines()
 data_t = []
